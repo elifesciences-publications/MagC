@@ -1,3 +1,5 @@
+### This code is associated with the paper from Templier, "MagC, magnetic collection of ultrathin sectionsfor volumetric correlative light and electron microscopy". eLife, 2019. http://dx.doi.org/10.7554/eLife.45696
+
 # Platforms
 Windows  - for all steps except Linux for after LM-EM registration (for exports to render and Neuroglancer)  
 Linux - should work too but currently untested (probably to adjust: call to concorde linkern for reordering, maybe add some fc.cleanLinuxPath to problematic paths with trakEM)
